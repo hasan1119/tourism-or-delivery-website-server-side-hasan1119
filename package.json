@@ -8,17 +8,9 @@
     "start-dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-hasan1119.git"
-  },
   "keywords": [],
   "author": "Md. Rokibul Hasan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-hasan1119/issues"
-  },
-  "homepage": "https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-hasan1119#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
